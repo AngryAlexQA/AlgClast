@@ -1,0 +1,7 @@
+numpy>=1.23
+pandas>=1.5
+matplotlib>=3.5
+opencv-python>=4.5
+scikit-learn>=1.2
+scikit-image>=0.19
+notebook
